@@ -1,0 +1,8 @@
+{
+  "user": "example",
+  "password": "abcdef",
+  "database": "xyz",
+  "hostname": "ec2-107-21-221-59.compute-1.amazonaws.com",
+  "port": 5432,
+  "ssl": true
+}
